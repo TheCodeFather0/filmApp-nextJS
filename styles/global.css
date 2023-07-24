@@ -8,6 +8,13 @@ body {
   color: white;
 }
 
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
 .container {
   display: grid;
   grid-template-columns: 1fr min(1440px, 94%) 1fr;
