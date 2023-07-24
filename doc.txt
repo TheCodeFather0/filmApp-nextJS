@@ -1,0 +1,10 @@
+catch all routes
+option catch all routes
+rout grouping
+
+
+
+
+components -> 
+page
+layout
